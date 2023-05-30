@@ -1,0 +1,18 @@
+========================================
+                  SJF
+========================================
+
+	response time		turnaround time		waiting time
+P1	0			15			2
+P2	1			16			2
+P3	5			19			6
+P4	12			18			12
+____________________________________________________________
+Avr	4.5			17.0			5.5
+
+
+Total time      : 31
+Idle time       : 0
+Burst time      : 31
+CPU Utilization : 1.0
+Throughput      : 129.03

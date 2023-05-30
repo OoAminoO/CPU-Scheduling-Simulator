@@ -1,0 +1,18 @@
+========================================
+                  FCFS
+========================================
+
+	response time		turnaround time		waiting time
+P1	0			21			8
+P2	1			24			10
+P3	9			22			9
+P4	4			10			4
+____________________________________________________________
+Avr	3.5			19.25			7.75
+
+
+Total time      : 34
+Idle time       : 3
+Burst time      : 31
+CPU Utilization : 0.91
+Throughput      : 117.65

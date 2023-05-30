@@ -1,0 +1,18 @@
+========================================
+              Round Robin
+========================================
+
+	response time		turnaround time		waiting time
+P1	0			18			5
+P2	1			24			10
+P3	7			20			7
+P4	3			16			10
+____________________________________________________________
+Avr	2.75			19.5			8.0
+
+
+Total time      : 32
+Idle time       : 1
+Burst time      : 31
+CPU Utilization : 0.97
+Throughput      : 125.0
